@@ -48,8 +48,8 @@ const Contact = () => {
           <h2 className="text-3xl font-bold mb-6 text-purple-300">Contact Info</h2>
           <div className="flex items-center gap-4">
             <Linkedin className="w-7 h-7 text-purple-400" />
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer" className="hover:text-purple-300 transition">
-              linkedin.com/in/yourprofile
+            <a href="https://www.linkedin.com/in/-nandhini/" target="_blank" rel="noreferrer" className="hover:text-purple-300 transition">
+              https://www.linkedin.com/in/-nandhini/
             </a>
           </div>
           <div className="flex items-center gap-4">
